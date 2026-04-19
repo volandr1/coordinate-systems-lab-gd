@@ -98,10 +98,10 @@
 ![Результати Експерименту 3a](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(4).png)
 
 **Експеримент 3b: Реалістичний (1 мкс)**  
-![Результати Експерименту 3b](task3b_noise_1us.png)
+![Результати Експерименту 3b](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(5).png)
 
 **Експеримент 3c: Зламаний (100 мкс)**  
-![Результати Експерименту 3c](task3c_noise_100us.png)
+![Результати Експерименту 3c](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(6).png)
 
 ---
 
