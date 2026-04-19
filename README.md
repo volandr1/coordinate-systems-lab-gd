@@ -138,13 +138,13 @@
 ### Графіки результатів:
 
 **Експеримент 4a: Близька точка (Добре)**  
-![Результати Експерименту 4a](task4a_good.png)
+![Результати Експерименту 4a](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(7).png)
 
 **Експеримент 4b: Віддалена точка (Погане)**  
-![Результати Експерименту 4b](task4b_bad.png)
+![Результати Експерименту 4b](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(8).png)
 
 **Експеримент 4c: Дуже далека точка (Дуже погане)**  
-![Результати Експерименту 4c](task4c_very_bad.png)
+![Результати Експерименту 4c](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(9).png)
 
 ---
 
