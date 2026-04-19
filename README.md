@@ -95,7 +95,7 @@
 ### Графіки:
 
 **Експеримент 3a: Високоточний (1 нс)**  
-![Результати Експерименту 3a](task3a_noise_1ns.png)
+![Результати Експерименту 3a](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(4).png)
 
 **Експеримент 3b: Реалістичний (1 мкс)**  
 ![Результати Експерименту 3b](task3b_noise_1us.png)
