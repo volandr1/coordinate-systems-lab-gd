@@ -51,7 +51,7 @@
 ### Графіки:
 
 **Експеримент 2a: Розбіжність (LR = 2.0)**  
-![Результати Експерименту 2a](task2a_divergence.png)
+![Результати Експерименту 2a](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(1).png)
 
 **Експеримент 2b: Стагнація (LR = 1e-5)**  
 ![Результати Експерименту 2b](task2b_stagnation.png)
