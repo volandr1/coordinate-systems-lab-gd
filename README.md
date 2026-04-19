@@ -178,10 +178,10 @@
 ### Графіки результатів:
 
 **Експеримент 5a: Хороша геометрія (Ціль всередині)**  
-![Результати Експерименту 5a](task5a_good_geometry.png)
+![Результати Експерименту 5a](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(10).png)
 
 **Експеримент 5b: Погана геометрія (Ціль збоку)**  
-![Результати Експерименту 5b](task5b_bad_geometry.png)
+![Результати Експерименту 5b](https://github.com/volandr1/coordinate-systems-lab-gd/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(11).png)
 
 ---
 
